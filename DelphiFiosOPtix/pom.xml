@@ -3,7 +3,6 @@
   <groupId>DelphiFiosOPtix</groupId>
   <artifactId>DelphiFiosOPtix</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
