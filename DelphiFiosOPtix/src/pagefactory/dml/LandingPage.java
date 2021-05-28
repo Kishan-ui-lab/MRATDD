@@ -4,6 +4,7 @@ public class LandingPage {
 	
 	int a =1;
 	String x = "Kishan";
+	String x = "Kumar";
 	
 
 }
