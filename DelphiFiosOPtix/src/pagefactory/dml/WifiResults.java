@@ -15,6 +15,14 @@ public class WifiResults {
 
 	      ++j;
 	    }
+	    for(int j1=10; j1<25;j1++)
+	    {
+	    	if (num1 % j1 == 0) {
+	            flag = true;
+	            break;
+	          }
+	    	
+	    }
 
 	    if (!flag)
 	      System.out.println(num1 + " is a prime number.");
