@@ -17,7 +17,6 @@ public class BaseTestCase {
 	Chromeoptions options = new chromeoptions();
 	   
 	driver.manage().window().maximize();
-	driver.manage().window().maximize();
 
 	switch(environment) {
 
