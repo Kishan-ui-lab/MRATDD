@@ -39,6 +39,7 @@ public class BaseTestCase {
 
 if(url !=null && environment.equals("DMLFAKEUAT")) {
 	driver.get(url);
+	driver.get(url);
 	
 }
 
