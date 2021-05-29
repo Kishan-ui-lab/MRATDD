@@ -12,21 +12,7 @@ public class WifiResults {
 	        flag = true;
 	        break;
 	      }
-
-	      ++j;
 	    }
-
-	    if (!flag)
-	      System.out.println(num1 + " is a prime number.");
-	    else
-	      System.out.println(num1+ " is not a prime number.");
-		
-        if (flag==0)
-	      System.out.println(num1 + " is a prime number.");
-	    else
-	      System.out.println(num1+ " is not a prime number.");
-	  
-  
 
     int num = 29;
     for (int i = 2; i <= num / 2; ++i) {
@@ -36,16 +22,5 @@ public class WifiResults {
         break;
       }
     }
-
-    if (!flag)
-      System.out.println(num + " is a prime number.");
-    else
-      System.out.println(num + " is not a prime number.");
-    
-    if (flag == true)
-        System.out.println(num + " is a even number.");
-      else
-        System.out.println(num + " is not a even number.");
-  }
-
+}
 }
