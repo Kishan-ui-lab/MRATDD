@@ -1,4 +1,4 @@
-/*package common;
+package common;
 
 public class BaseTestCase {
 	
@@ -16,7 +16,6 @@ public class BaseTestCase {
 	String host = system.getproperty("user.name");
 	Chromeoptions options = new chromeoptions();
 	   
-	driver.manage().window().maximize();
 	driver.manage().window().maximize();
 
 	switch(environment) {
@@ -56,4 +55,4 @@ else if (url !=null && environment.equals("DMLFAKEUATPAM")) {
 
 	}
 
-}*/
+}
