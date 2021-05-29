@@ -36,6 +36,11 @@ public class WifiResults {
       System.out.println(num + " is a prime number.");
     else
       System.out.println(num + " is not a prime number.");
+    
+    if (flag == true)
+        System.out.println(num + " is a even number.");
+      else
+        System.out.println(num + " is not a even number.");
   }
 
 }
