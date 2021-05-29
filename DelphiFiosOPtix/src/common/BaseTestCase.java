@@ -1,4 +1,4 @@
-/*package common;
+package common;
 
 public class BaseTestCase {
 	
@@ -40,7 +40,6 @@ public class BaseTestCase {
 
 if(url !=null && environment.equals("DMLFAKEUAT")) {
 	driver.get(url);
-	driver.get(url);
 	
 }
 
@@ -48,12 +47,14 @@ else if (url !=null && environment.equals("DMLFAKEUATPAM")) {
 	driver.get(url);
 	
 }
+else {
+	
 
-
+}
 	Public void closeBrowser() {
 	   
 	  driver.quit();
 
 	}
 
-}*/
+}
