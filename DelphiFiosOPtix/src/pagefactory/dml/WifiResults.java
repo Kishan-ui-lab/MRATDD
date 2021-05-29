@@ -20,9 +20,6 @@ public class WifiResults {
 	      System.out.println(num1 + " is a prime number.");
 	    else
 	      System.out.println(num1+ " is not a prime number.");
-	  
-  
-
     int num = 29;
     for (int i = 2; i <= num / 2; ++i) {
       // condition for nonprime number
