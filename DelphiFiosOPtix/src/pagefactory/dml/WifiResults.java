@@ -14,12 +14,19 @@ public class WifiResults {
 	      }
 	      ++j;
 	    }
+	    for(int j1=10; j1<25;j1++)
+	    {
+	    	if (num1 % j1 == 0) {
+	            flag = true;
+	            break;
+	          }
+	    	
+	    }
 
 	    if (!flag)
 	      System.out.println(num1 + " is a prime number.");
 	    else
 	      System.out.println(num1+ " is not a prime number.");
-  
 
     int num = 29;
     for (int i = 2; i <= num / 2; ++i) {
@@ -29,8 +36,13 @@ public class WifiResults {
         break;
       }
     }
-    if (!flag)
-	      System.out.println(num1 + " is a prime number.");
+    if (!flag) {
+    	
+    	
+      System.out.println(num + " is a prime number.");
+    
+  }
+
 	    else
 	      System.out.println(num1+ " is not a prime number.");
 }
