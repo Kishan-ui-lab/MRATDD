@@ -34,19 +34,23 @@ public class sample {
 		int p =100;
 		int q = 200;
 
-		if(p!=q) {
+		if(p!=q) { 
 
 			System.out.println("hi");
 
 		}
 
-		String s = "Kishan";
-		String t = "kumar";
+		String browser = "Edge";
+		//String t = "kumar";
 
-		if (s.equals(t)) {
-			System.out.println(" s and t are equal");
+		if (browser.equals("Chrome")) {
+			System.out.println(" Browser initiated is Chrome  ");
+		} else if (browser.equals("firefox")) {
+			System.out.println(" Browser initiated is Firefox");
 		} else {
-			System.out.println(" s and t are NOT equal");
+
+			System.out.println(" Incorrect browser......");
+
 		}
 
 
