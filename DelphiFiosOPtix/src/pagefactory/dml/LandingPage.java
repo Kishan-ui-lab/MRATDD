@@ -2,8 +2,11 @@ package pagefactory.dml;
 
 public class LandingPage {
 	
+	public static void main(String [] args) {
+		
+	
 	int a =14;
-	int b = 3;
+	int b =30;
 	
 	if (b>a) {
 		
@@ -18,4 +21,5 @@ public class LandingPage {
 //	String x = "Kishan";
 //	String x = "Kumar";
 
+}
 }
