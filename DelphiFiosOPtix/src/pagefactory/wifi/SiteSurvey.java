@@ -1,4 +1,4 @@
-/*package pagefactory.wifi;
+package pagefactory.wifi;
 
 import org.testng.ITestContext;
 import org.testng.annotations.Listeners;
@@ -15,6 +15,6 @@ import pagefactory.dml.WifiResults;
 
 public class SiteSurvey extends BaseTestCase{
 	
-	
+System.out.println("");	
 
-}*/
+}
