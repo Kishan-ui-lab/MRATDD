@@ -16,5 +16,6 @@ import pagefactory.dml.WifiResults;
 public class SiteSurvey extends BaseTestCase{
 	
 System.out.println("");	
+int a =10;	
 
 }
