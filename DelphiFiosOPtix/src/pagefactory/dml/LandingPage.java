@@ -8,7 +8,7 @@ public class LandingPage {
 	int a =14;
 	int b =30;
 	
-	if (b>a) {
+	if (b>a) {      
 		
 		System.out.println("b is greater than a");
 		
