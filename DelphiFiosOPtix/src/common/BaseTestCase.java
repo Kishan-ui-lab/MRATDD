@@ -5,7 +5,7 @@ public class BaseTestCase {
 	
 	Public webdriver driver;
 	HelperFunctions helper = new HelperFunctions();
-	public Utilities utility;
+	public Utilities utility;        
 	
 	  Public final string environment = system.getproperty("env","DMLFAKEUAT");
 	  Public final string applpropfilepath = "application.properities";
