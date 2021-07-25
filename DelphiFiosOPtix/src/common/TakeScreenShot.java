@@ -1,4 +1,4 @@
-/*package common;
+package common;
 
 import jdk.javadoc.doclet.Reporter;
 import java.io.File;
@@ -71,4 +71,4 @@ public class TakeScreenShot {
 	}
 	
 	
-}*/
+}

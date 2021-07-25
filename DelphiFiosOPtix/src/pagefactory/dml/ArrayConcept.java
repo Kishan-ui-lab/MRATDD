@@ -8,7 +8,7 @@ public class ArrayConcept {
 		class FibonacciSeries {
 
 			
-			public static void main(String args[]) 
+			public void main(String args[]) 
 			{
 				 
 			int a = 0, b = 1, c, i, count = 10;

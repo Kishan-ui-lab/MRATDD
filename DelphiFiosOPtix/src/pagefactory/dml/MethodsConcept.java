@@ -77,10 +77,3 @@ class Another {
 		m.loginStatus("ratan", "anu");
 	}
 }
-	
-	Class Test{
-		
-		
-		
-		
-	}
