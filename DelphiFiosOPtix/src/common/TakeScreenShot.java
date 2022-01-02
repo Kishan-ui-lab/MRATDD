@@ -38,8 +38,7 @@ public class TakeScreenShot {
 		
 		if(OS==null)
 		{
-			
-			OS = System.getProperty("os.name");
+		    OS = System.getProperty("os.name");
 		}
 		return  OS;
 	}
