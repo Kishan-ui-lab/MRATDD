@@ -1,6 +1,9 @@
 package pagefactory.dml;
 
  class MethodsConcept {
+	 
+	 String name="kishan";
+	 
 	
 	//Ratna5256@gmail.com   ratna personal number : +91 9000160099
 		//Ratanithelp@gmail.com	
