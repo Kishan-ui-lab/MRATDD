@@ -12,7 +12,7 @@ public class TakeScreenShot {
 	
 	public static String takeScreenshot(WebDriver driver,String msg) throws Exception {
 		
-		
+		int i=2;
 		String data_uri = null;
 		
 		try {
