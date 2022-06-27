@@ -16,6 +16,7 @@ import pagefactory.dml.WifiResults;
 public class SiteSurvey extends BaseTestCase{
 	
 System.out.println("");	
+	
 System.out.println("code merge from feature branch to main");
 int a =10;	
 
